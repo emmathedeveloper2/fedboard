@@ -11,7 +11,7 @@
 :root {
     --background: #ffffff;
     --foreground: #000000;
-    --primary: #ffff00;
+    --primary: lightgreen;
     --primary-foreground: #000000;
     --muted: #eeeeee;
     --muted-foreground: #000000;
