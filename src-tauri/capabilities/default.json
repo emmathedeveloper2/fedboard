@@ -15,7 +15,6 @@
     "clipboard-manager:allow-write-html",
     "core:window:allow-start-dragging",
     "core:app:allow-default-window-icon",
-    "dialog:default",
     "dialog:allow-ask",
     "dialog:allow-message",
     "updater:default",
