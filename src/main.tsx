@@ -22,6 +22,7 @@ async function checkForAppUpdates() {
     if (yes) {
       await update.downloadAndInstall();
     }
+  }
 }
 
 async function setTrayIcon(){
