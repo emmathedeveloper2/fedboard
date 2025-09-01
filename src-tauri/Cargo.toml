@@ -1,6 +1,6 @@
 [package]
 name = "fedboard"
-version = "0.2.0"
+version = "0.3.0"
 description = "Clipboard app (Built because i didn't see a good clipboard app for linux)"
 authors = ["you"]
 edition = "2021"
